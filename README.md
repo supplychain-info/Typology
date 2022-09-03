@@ -1,4 +1,5 @@
 # Typology
 Typology of Supply Chain terms, related technologies etc
 
-[SBOMs](sbom/main.md)
+1. [Secure Supply Chains](ssc/main.md)
+1. [SBOMs](sbom/main.md)
