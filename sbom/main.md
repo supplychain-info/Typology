@@ -8,6 +8,6 @@
 
 1. [Analyzers](analyzers.md)
 1. [Education](education.md)
-1. [Generators](generators.md)
+1. [Generators](generators/main.md)
 1. [Requirements](requirements.md)
 1. [Standards](standards.md)
